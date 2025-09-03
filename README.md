@@ -10,7 +10,8 @@ The Office Store is a fictional e-commerce company that specializes in office-re
 * Most and least profitable accounts.
 * % of total orders produced in Canada vs US.
 * Shipping preferences by SubCategory.
-<img src= images/Sales_dashboard_screenshot.JPG alt="Sales Dashboard" width="400"/>
+<img src="images/Sales_dashboard_screenshot.JPG" alt="Sales Dashboard" width="400"/>
+
 
   
 
@@ -24,7 +25,7 @@ The Office Store is a fictional e-commerce company that specializes in office-re
 *	Top 10 states by sales.
 *	Top 10 selling products.
 *	Table showing performance by state.
-<img src= images/Performance_by_location_dashboard_screenshot.JPG alt="Performance by Location Dashboard" width="400"/>
+<img src="images/Performance_by_location_dashboard_screenshot.JPG" alt="Performance by Location Dashboard" width="400"/>
 
 
 User interaction: 
