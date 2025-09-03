@@ -1,7 +1,7 @@
 # The Office Store Tableau Project
 The Office Store is a fictional e-commerce company that specializes in office-related products, including Office Supplies, Furniture, and Technology. The company operates exclusively online, serving General Consumers, Corporate Offices, and Home Offices across the United States, with products manufactured in both the US and Canada. This project was developed during the CFI Business Intelligence & Data Analysis (BIDA) Tableau course.
 
-**Sales Dashboard** <img src= images/Sales_dashboard_screenshot.jpg alt="Sales Dashboard" width="400"/>
+**Sales Dashboard** 
 
 --Key Insights:
 * Topline summary showing high level numbers.      
@@ -10,17 +10,21 @@ The Office Store is a fictional e-commerce company that specializes in office-re
 * Most and least profitable accounts.
 * % of total orders produced in Canada vs US.
 * Shipping preferences by SubCategory.
+<img src= images/Sales_dashboard_screenshot.JPG alt="Sales Dashboard" width="400"/>
 
   
 
 
-**Performance by Location Dashboard (5 year period)** <img src= images/Performance_by_location_dashboard_screenshot.jpg alt="Performance by Location Dashboard" width="400"/>
+
+
+**Performance by Location Dashboard (5 year period)** 
 
 --Key Insights:
 *	Map showing performance by region.
 *	Top 10 states by sales.
 *	Top 10 selling products.
 *	Table showing performance by state.
+<img src= images/Performance_by_location_dashboard_screenshot.JPG alt="Performance by Location Dashboard" width="400"/>
 
 
 User interaction: 
