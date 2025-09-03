@@ -24,7 +24,6 @@ User interaction:
 * Toggle buttons to show/hide charts.
 
 
-<p>View Dashboards:</p>
-<a href=https://public.tableau.com/views/TableauFundamentals_17467114466740/SalesDashboard?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
-  Open in Tableau Public 
-</a>
+View Dashboards:  
+[Open in Tableau Public](https://public.tableau.com/views/TableauFundamentals_17467114466740/SalesDashboard?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
