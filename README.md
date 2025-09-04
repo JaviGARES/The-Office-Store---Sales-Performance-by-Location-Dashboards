@@ -1,4 +1,3 @@
-# The Office Store – Tableau Dashboards
 
 **Project Description:**  
 The Office Store is a fictional e-commerce company specializing in office-related products, including Office Supplies, Furniture, and Technology. It operates exclusively online, serving General Consumers, Corporate Offices, and Home Offices across the United States, with products manufactured in the US and Canada. This project was developed during the **CFI Business Intelligence & Data Analysis (BIDA) Tableau course**.
